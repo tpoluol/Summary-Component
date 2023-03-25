@@ -1,9 +1,7 @@
-import { useState } from 'react';
-
 function App() {
   return (
     <div className="App">
-      <p className="text-3xl">Hello React.</p>
+      <p className="font-Hankengrotesk font-[700]">Hello React.</p>
     </div>
   );
 }
